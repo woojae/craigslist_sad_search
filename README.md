@@ -1,4 +1,4 @@
 craigslist_sad_search
 =====================
-
-Craigslist System Administrator Search
+# A simple script to search for system administrator jobs.
+# Just change the searches and cities arrays.
