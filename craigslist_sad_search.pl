@@ -9,9 +9,9 @@ my @searches = qw{bash perl ruby python php puppet chef kvm xen hyper-v vmware a
 for my $city (@cities) {
 	print "$city  \n";
 	for my $keyword (@searches) { 
-		my $url = "http://$city.craigslist.org/search/sad?query=$keyword&zoomToPosting=&srchType=A";
+		my $url = "http://$city.craigslist.org/search/sad?query=$keyword";
 		my $html = qx{ curl --silent -L '$url' };
-		my @matches = $html =~ /found (\d+)/;
+		my @matches = $html =~ /resultcount.*(\d+)/;
 		my $count = $matches[0];
 		print "$keyword: $count ";
 	}
