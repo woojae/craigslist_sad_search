@@ -1,152 +1,80 @@
-Mon Jul 22 11:23:22 PDT 2013
-austin  
-bash: 6 perl: 6 ruby: 1 python: 6 php: 6 puppet: 2 chef: 1 kvm: 1 xen: 2 hyper-v: 4 vmware: 19 aws: 1 openstack: 1 rackspace:  
-sfbay  
-bash: 18 perl: 55 ruby: 39 python: 58 php: 22 puppet: 30 chef: 34 kvm: 5 xen: 7 hyper-v: 10 vmware: 63 aws: 24 openstack: 4 rackspace: 6 
-losangeles  
-bash: 5 perl: 10 ruby: 6 python: 8 php: 15 puppet: 7 chef: 6 kvm: 6 xen: 11 hyper-v: 18 vmware: 54 aws: 3 openstack:  rackspace: 4 
-newyork  
-bash: 21 perl: 45 ruby: 16 python: 40 php: 27 puppet: 14 chef: 10 kvm: 10 xen: 8 hyper-v: 16 vmware: 100 aws: 9 openstack:  rackspace: 5 
-sandiego  
-bash: 8 perl: 11 ruby: 7 python: 11 php: 23 puppet: 8 chef: 7 kvm: 6 xen: 13 hyper-v: 17 vmware: 59 aws: 3 openstack: 1 rackspace: 4 
-boston  
-bash: 30 perl: 31 ruby: 14 python: 31 php: 46 puppet: 34 chef: 33 kvm: 1 xen: 30 hyper-v: 12 vmware: 87 aws: 14 openstack: 1 rackspace: 1 
-chicago  
-bash: 6 perl: 9 ruby: 3 python: 5 php: 8 puppet: 3 chef:  kvm:  xen: 3 hyper-v: 10 vmware: 22 aws:  openstack:  rackspace:  
-seattle  
-bash: 7 perl: 13 ruby: 3 python: 11 php: 8 puppet: 10 chef: 6 kvm: 7 xen: 6 hyper-v: 11 vmware: 37 aws: 9 openstack: 1 rackspace: 3 
-portland  
-bash: 7 perl: 14 ruby: 8 python: 13 php: 13 puppet: 11 chef: 9 kvm: 8 xen: 6 hyper-v: 16 vmware: 59 aws: 9 openstack: 2 rackspace: 4 
-Wed Jul 31 09:11:33 PDT 2013
-austin  
-bash: 9 perl: 10 ruby: 1 python: 8 php: 18 puppet: 2 chef: 1 kvm: 1 xen: 1 hyper-v: 5 vmware: 31 aws: 2 openstack:  rackspace:  
-sfbay  
-bash: 29 perl: 65 ruby: 48 python: 65 php: 25 puppet: 33 chef: 38 kvm: 10 xen: 10 hyper-v: 14 vmware: 78 aws: 28 openstack: 4 rackspace: 9 
-losangeles  
-bash: 10 perl: 15 ruby: 8 python: 17 php: 30 puppet: 9 chef: 7 kvm: 7 xen: 15 hyper-v: 28 vmware: 80 aws: 6 openstack:  rackspace: 3 
-newyork  
-bash: 26 perl: 55 ruby: 18 python: 45 php: 42 puppet: 16 chef: 12 kvm: 13 xen: 9 hyper-v: 21 vmware: 100 aws: 10 openstack: 1 rackspace: 4 
-sandiego  
-bash: 10 perl: 14 ruby: 8 python: 17 php: 30 puppet: 9 chef: 7 kvm: 7 xen: 15 hyper-v: 25 vmware: 71 aws: 5 openstack:  rackspace: 2 
-boston  
-bash: 36 perl: 41 ruby: 20 python: 37 php: 49 puppet: 35 chef: 37 kvm: 3 xen: 32 hyper-v: 13 vmware: 100 aws: 20 openstack:  rackspace:  
-chicago  
-bash: 6 perl: 9 ruby:  python: 5 php: 9 puppet: 3 chef:  kvm:  xen: 4 hyper-v: 8 vmware: 29 aws: 1 openstack:  rackspace: 1 
-seattle  
-bash: 10 perl: 19 ruby: 6 python: 18 php: 15 puppet: 14 chef: 10 kvm: 7 xen: 7 hyper-v: 18 vmware: 72 aws: 10 openstack: 3 rackspace: 3 
-portland  
-bash: 8 perl: 19 ruby: 10 python: 18 php: 14 puppet: 12 chef: 10 kvm: 9 xen: 5 hyper-v: 20 vmware: 68 aws: 7 openstack: 3 rackspace: 3 
-Wed Aug  7 09:07:01 PDT 2013
-austin  
-bash: 13 perl: 13 ruby: 2 python: 12 php: 21 puppet: 3 chef: 2 kvm: 2 xen: 3 hyper-v: 6 vmware: 36 aws: 2 openstack:  rackspace:  
-sfbay  
-bash: 23 perl: 59 ruby: 48 python: 63 php: 23 puppet: 34 chef: 36 kvm: 10 xen: 8 hyper-v: 12 vmware: 76 aws: 24 openstack: 5 rackspace: 7 
-losangeles  
-bash: 9 perl: 16 ruby: 11 python: 20 php: 30 puppet: 8 chef: 7 kvm: 6 xen: 12 hyper-v: 28 vmware: 92 aws: 10 openstack: 1 rackspace: 2 
-newyork  
-bash: 29 perl: 60 ruby: 22 python: 51 php: 45 puppet: 18 chef: 13 kvm: 12 xen: 11 hyper-v: 21 vmware: 100 aws: 10 openstack: 2 rackspace: 3 
-sandiego  
-bash: 9 perl: 14 ruby: 10 python: 20 php: 30 puppet: 8 chef: 7 kvm: 6 xen: 12 hyper-v: 25 vmware: 82 aws: 9 openstack: 1 rackspace: 1 
-boston  
-bash: 35 perl: 48 ruby: 22 python: 42 php: 50 puppet: 36 chef: 37 kvm: 3 xen: 31 hyper-v: 15 vmware: 100 aws: 20 openstack: 1 rackspace: 1 
-chicago  
-bash: 8 perl: 13 ruby:  python: 10 php: 12 puppet: 3 chef: 1 kvm:  xen: 2 hyper-v: 8 vmware: 35 aws: 2 openstack:  rackspace: 1 
-seattle  
-bash: 12 perl: 24 ruby: 8 python: 25 php: 19 puppet: 17 chef: 11 kvm: 7 xen: 4 hyper-v: 26 vmware: 81 aws: 10 openstack: 1 rackspace: 2 
-portland  
-bash: 11 perl: 28 ruby: 13 python: 22 php: 21 puppet: 16 chef: 12 kvm: 8 xen: 4 hyper-v: 23 vmware: 70 aws: 9 openstack: 1 rackspace: 3 
-Mon Aug 12 09:37:29 PDT 2013
-austin  
-bash: 13 perl: 14 ruby: 2 python: 12 php: 20 puppet: 3 chef: 2 kvm: 2 xen: 3 hyper-v: 5 vmware: 36 aws: 2 openstack:  rackspace:  
-sfbay  
-bash: 25 perl: 55 ruby: 45 python: 58 php: 19 puppet: 32 chef: 31 kvm: 10 xen: 6 hyper-v: 13 vmware: 70 aws: 19 openstack: 4 rackspace: 7 
-losangeles  
-bash: 13 perl: 21 ruby: 14 python: 25 php: 32 puppet: 12 chef: 10 kvm: 5 xen: 9 hyper-v: 28 vmware: 93 aws: 10 openstack: 1 rackspace: 4 
-newyork  
-bash: 29 perl: 56 ruby: 19 python: 49 php: 39 puppet: 17 chef: 12 kvm: 12 xen: 9 hyper-v: 23 vmware: 100 aws: 9 openstack: 3 rackspace: 3 
-sandiego  
-bash: 13 perl: 18 ruby: 12 python: 24 php: 32 puppet: 12 chef: 10 kvm: 5 xen: 9 hyper-v: 25 vmware: 83 aws: 9 openstack: 1 rackspace: 3 
-boston  
-bash: 37 perl: 49 ruby: 22 python: 39 php: 49 puppet: 37 chef: 37 kvm: 3 xen: 34 hyper-v: 16 vmware: 100 aws: 24 openstack: 1 rackspace: 1 
-chicago  
-bash: 7 perl: 15 ruby: 2 python: 10 php: 12 puppet: 2 chef: 1 kvm:  xen: 2 hyper-v: 6 vmware: 36 aws: 2 openstack:  rackspace: 1 
-seattle  
-bash: 12 perl: 28 ruby: 12 python: 30 php: 17 puppet: 17 chef: 13 kvm: 6 xen: 7 hyper-v: 28 vmware: 78 aws: 8 openstack: 2 rackspace: 3 
-portland  
-bash: 10 perl: 29 ruby: 16 python: 23 php: 17 puppet: 15 chef: 13 kvm: 7 xen: 6 hyper-v: 24 vmware: 67 aws: 8 openstack: 1 rackspace: 3
-Tue Nov 26 22:53:38 PST 2013
-austin  
-bash: 2 perl: 4 ruby: 2 python: 6 php: 8 puppet:  chef:  kvm: 2 xen: 1 hyper-v: 4 vmware: 2 aws: 2 openstack:  rackspace:  
-sfbay  
-bash: 5 perl: 5 ruby: 1 python: 0 php: 6 puppet: 9 chef: 6 kvm: 4 xen: 4 hyper-v: 3 vmware: 4 aws: 3 openstack: 7 rackspace: 0 
-losangeles  
-bash: 6 perl: 6 ruby: 0 python: 1 php: 3 puppet: 4 chef: 3 kvm: 2 xen: 3 hyper-v: 0 vmware: 1 aws: 5 openstack:  rackspace: 2 
-newyork  
-bash: 9 perl: 7 ruby: 3 python: 5 php: 4 puppet: 2 chef: 8 kvm: 5 xen: 5 hyper-v: 3 vmware: 0 aws: 8 openstack: 2 rackspace: 4 
-sandiego  
-bash: 3 perl: 9 ruby: 5 python: 3 php: 9 puppet: 2 chef: 1 kvm:  xen:  hyper-v: 4 vmware: 4 aws: 6 openstack: 1 rackspace: 2 
-boston  
-bash: 1 perl: 3 ruby: 1 python: 3 php: 5 puppet: 9 chef: 2 kvm:  xen: 1 hyper-v: 7 vmware: 7 aws: 4 openstack: 1 rackspace: 5 
-chicago  
-bash: 0 perl: 3 ruby: 2 python: 8 php: 5 puppet: 6 chef: 2 kvm: 2 xen: 2 hyper-v: 4 vmware: 6 aws: 1 openstack: 1 rackspace: 2 
-seattle  
-bash: 2 perl: 6 ruby: 2 python: 7 php: 1 puppet: 9 chef: 4 kvm: 3 xen: 7 hyper-v: 8 vmware: 7 aws: 4 openstack: 2 rackspace: 3 
-portland  
-bash: 1 perl: 1 ruby: 1 python: 4 php: 5 puppet: 4 chef: 2 kvm:  xen: 1 hyper-v: 4 vmware: 0 aws: 3 openstack:  rackspace:   
-Thu Dec 19 01:00:41 PST 2013
-austin  
-bash: 9 perl: 5 ruby: 1 python: 5 php: 4 puppet: 5 chef: 5 kvm:  xen: 1 hyper-v: 6 vmware: 1 aws: 2 openstack:  rackspace:  
-sfbay  
-bash: 1 perl: 4 ruby: 6 python: 7 php: 2 puppet: 9 chef: 2 kvm: 4 xen: 1 hyper-v: 1 vmware: 2 aws: 0 openstack: 4 rackspace: 4 
-losangeles  
-bash: 1 perl: 6 ruby: 6 python: 7 php: 0 puppet: 5 chef: 5 kvm: 1 xen: 2 hyper-v: 4 vmware: 7 aws: 3 openstack:  rackspace:  
-newyork  
-bash: 9 perl: 4 ruby: 2 python: 0 php: 4 puppet: 0 chef: 9 kvm: 4 xen: 2 hyper-v: 4 vmware: 5 aws: 0 openstack: 7 rackspace: 3 
-sandiego  
-bash: 2 perl: 7 ruby: 3 python: 3 php: 8 puppet: 5 chef: 6 kvm:  xen:  hyper-v: 7 vmware: 1 aws: 2 openstack:  rackspace:  
-boston  
-bash: 3 perl: 8 ruby: 8 python: 0 php: 4 puppet: 7 chef: 6 kvm: 3 xen: 8 hyper-v: 1 vmware: 5 aws: 7 openstack: 6 rackspace: 7 
-chicago  
-bash: 8 perl: 7 ruby: 2 python: 6 php: 8 puppet: 5 chef: 2 kvm: 1 xen: 1 hyper-v: 4 vmware: 6 aws:  openstack:  rackspace: 1 
-seattle  
-bash: 8 perl: 8 ruby: 4 python: 5 php: 9 puppet: 5 chef: 9 kvm: 3 xen: 5 hyper-v: 3 vmware: 3 aws: 6 openstack:  rackspace: 1 
-portland  
-bash: 3 perl: 6 ruby: 2 python: 4 php: 6 puppet: 6 chef: 2 kvm: 1 xen: 3 hyper-v: 2 vmware: 7 aws: 4 openstack:  rackspace: 2 
-Tue Jan 14 15:01:11 PST 2014
-austin  
-bash: 6 perl: 4 ruby: 2 python: 5 php: 7 puppet: 6 chef: 6 kvm:  xen: 1 hyper-v: 3 vmware: 0 aws:  openstack: 1 rackspace: 1 
-sfbay  
-bash: 5 perl: 6 ruby: 4 python: 0 php: 8 puppet: 0 chef: 6 kvm: 5 xen: 8 hyper-v: 2 vmware: 2 aws: 1 openstack: 5 rackspace: 7 
-losangeles  
-bash: 7 perl: 5 ruby: 6 python: 4 php: 4 puppet: 2 chef: 0 kvm: 1 xen: 2 hyper-v: 3 vmware: 8 aws: 6 openstack: 2 rackspace: 4 
-newyork  
-bash: 7 perl: 0 ruby: 2 python: 2 php: 7 puppet: 7 chef: 5 kvm: 8 xen: 5 hyper-v: 6 vmware: 2 aws: 6 openstack: 1 rackspace:  
-sandiego  
-bash: 4 perl: 2 ruby: 2 python: 1 php: 0 puppet: 3 chef: 2 kvm:  xen:  hyper-v: 1 vmware: 6 aws: 2 openstack:  rackspace:  
-boston  
-bash: 9 perl: 3 ruby: 7 python: 7 php: 6 puppet: 9 chef: 2 kvm: 1 xen: 1 hyper-v: 1 vmware: 8 aws: 6 openstack: 1 rackspace: 9 
-chicago  
-bash: 4 perl: 7 ruby:  python: 5 php: 5 puppet: 4 chef: 2 kvm: 1 xen:  hyper-v: 5 vmware: 1 aws:  openstack:  rackspace:  
-seattle  
-bash: 9 perl: 9 ruby: 2 python: 4 php: 8 puppet: 1 chef: 2 kvm: 2 xen: 8 hyper-v: 2 vmware: 5 aws: 2 openstack:  rackspace: 4 
-portland  
-bash: 1 perl: 6 ruby: 8 python: 7 php: 5 puppet: 9 chef: 5 kvm: 1 xen:  hyper-v: 2 vmware: 9 aws: 4 openstack: 1 rackspace: 2 
-Thu Apr 17 21:48:19 PDT 2014
-austin  
-bash: 2 perl: 5 ruby: 4 python: 6 php: 4 puppet: 5 chef: 4 kvm: 2 xen: 2 hyper-v: 7 vmware: 22 aws: 3 openstack: 1 rackspace: 1 
-sfbay  
-bash: 43 perl: 74 ruby: 47 python: 88 php: 44 puppet: 49 chef: 26 kvm: 15 xen: 6 hyper-v: 14 vmware: 90 aws: 30 openstack: 8 rackspace: 6 
-losangeles  
-bash: 24 perl: 19 ruby: 5 python: 17 php: 22 puppet: 11 chef: 8 kvm: 1 xen: 2 hyper-v: 18 vmware: 82 aws: 20 openstack: 1 rackspace: 5 
-newyork  
-bash: 40 perl: 36 ruby: 27 python: 55 php: 27 puppet: 32 chef: 34 kvm: 9 xen: 7 hyper-v: 18 vmware: 100 aws: 32 openstack: 4 rackspace: 2 
-sandiego  
-bash: 28 perl: 23 ruby: 7 python: 24 php: 28 puppet: 12 chef: 11 kvm: 1 xen: 3 hyper-v: 13 vmware: 92 aws: 19 openstack: 2 rackspace: 6 
-boston  
-bash: 32 perl: 39 ruby: 24 python: 52 php: 29 puppet: 40 chef: 38 kvm: 13 xen: 11 hyper-v: 14 vmware: 81 aws: 33 openstack: 15 rackspace: 12 
-chicago  
-bash: 7 perl: 11 ruby: 6 python: 11 php: 15 puppet: 3 chef:  kvm: 6 xen: 3 hyper-v: 3 vmware: 18 aws:  openstack:  rackspace:  
-seattle  
-bash: 20 perl: 32 ruby: 11 python: 29 php: 19 puppet: 24 chef: 22 kvm: 9 xen: 5 hyper-v: 20 vmware: 35 aws: 16 openstack: 8 rackspace:  
-portland  
-bash: 27 perl: 41 ruby: 19 python: 42 php: 24 puppet: 31 chef: 23 kvm: 16 xen: 8 hyper-v: 34 vmware: 69 aws: 21 openstack: 9 rackspace: 4 
+Mon Jul 22 11:23:22 2013,
+Mon Jul 22 11:23:22 2013,austin,bash:6,perl:6,ruby:1,python:6,php:6,puppet:2,chef:1,kvm:1,xen:2,hyper-v:4,vmware:19,aws:1,openstack:1,rackspace:,
+Mon Jul 22 11:23:22 2013,sfbay,bash:18,perl:55,ruby:39,python:58,php:22,puppet:30,chef:34,kvm:5,xen:7,hyper-v:10,vmware:63,aws:24,openstack:4,rackspace:6,
+Mon Jul 22 11:23:22 2013,losangeles,bash:5,perl:10,ruby:6,python:8,php:15,puppet:7,chef:6,kvm:6,xen:11,hyper-v:18,vmware:54,aws:3,openstack:,rackspace:4,
+Mon Jul 22 11:23:22 2013,newyork,bash:21,perl:45,ruby:16,python:40,php:27,puppet:14,chef:10,kvm:10,xen:8,hyper-v:16,vmware:100,aws:9,openstack:,rackspace:5,
+Mon Jul 22 11:23:22 2013,sandiego,bash:8,perl:11,ruby:7,python:11,php:23,puppet:8,chef:7,kvm:6,xen:13,hyper-v:17,vmware:59,aws:3,openstack:1,rackspace:4,
+Mon Jul 22 11:23:22 2013,boston,bash:30,perl:31,ruby:14,python:31,php:46,puppet:34,chef:33,kvm:1,xen:30,hyper-v:12,vmware:87,aws:14,openstack:1,rackspace:1,
+Mon Jul 22 11:23:22 2013,chicago,bash:6,perl:9,ruby:3,python:5,php:8,puppet:3,chef:,kvm:,xen:3,hyper-v:10,vmware:22,aws:,openstack:,rackspace:,
+Mon Jul 22 11:23:22 2013,seattle,bash:7,perl:13,ruby:3,python:11,php:8,puppet:10,chef:6,kvm:7,xen:6,hyper-v:11,vmware:37,aws:9,openstack:1,rackspace:3,
+Mon Jul 22 11:23:22 2013,portland,bash:7,perl:14,ruby:8,python:13,php:13,puppet:11,chef:9,kvm:8,xen:6,hyper-v:16,vmware:59,aws:9,openstack:2,rackspace:4,
+Wed Jul 31 09:11:33 2013,
+Wed Jul 31 09:11:33 2013,austin,bash:9,perl:10,ruby:1,python:8,php:18,puppet:2,chef:1,kvm:1,xen:1,hyper-v:5,vmware:31,aws:2,openstack:,rackspace:,
+Wed Jul 31 09:11:33 2013,sfbay,bash:29,perl:65,ruby:48,python:65,php:25,puppet:33,chef:38,kvm:10,xen:10,hyper-v:14,vmware:78,aws:28,openstack:4,rackspace:9,
+Wed Jul 31 09:11:33 2013,losangeles,bash:10,perl:15,ruby:8,python:17,php:30,puppet:9,chef:7,kvm:7,xen:15,hyper-v:28,vmware:80,aws:6,openstack:,rackspace:3,
+Wed Jul 31 09:11:33 2013,newyork,bash:26,perl:55,ruby:18,python:45,php:42,puppet:16,chef:12,kvm:13,xen:9,hyper-v:21,vmware:100,aws:10,openstack:1,rackspace:4,
+Wed Jul 31 09:11:33 2013,sandiego,bash:10,perl:14,ruby:8,python:17,php:30,puppet:9,chef:7,kvm:7,xen:15,hyper-v:25,vmware:71,aws:5,openstack:,rackspace:2,
+Wed Jul 31 09:11:33 2013,boston,bash:36,perl:41,ruby:20,python:37,php:49,puppet:35,chef:37,kvm:3,xen:32,hyper-v:13,vmware:100,aws:20,openstack:,rackspace:,
+Wed Jul 31 09:11:33 2013,chicago,bash:6,perl:9,ruby:,python:5,php:9,puppet:3,chef:,kvm:,xen:4,hyper-v:8,vmware:29,aws:1,openstack:,rackspace:1,
+Wed Jul 31 09:11:33 2013,seattle,bash:10,perl:19,ruby:6,python:18,php:15,puppet:14,chef:10,kvm:7,xen:7,hyper-v:18,vmware:72,aws:10,openstack:3,rackspace:3,
+Wed Jul 31 09:11:33 2013,portland,bash:8,perl:19,ruby:10,python:18,php:14,puppet:12,chef:10,kvm:9,xen:5,hyper-v:20,vmware:68,aws:7,openstack:3,rackspace:3,
+Wed Aug 7 09:07:01 2013
+Wed Aug 7 09:07:01 2013,austin,bash:13,perl:13,ruby:2,python:12,php:21,puppet:3,chef:2,kvm:2,xen:3,hyper-v:6,vmware:36,aws:2,openstack:,rackspace:,
+Wed Aug 7 09:07:01 2013,sfbay,bash:23,perl:59,ruby:48,python:63,php:23,puppet:34,chef:36,kvm:10,xen:8,hyper-v:12,vmware:76,aws:24,openstack:5,rackspace:7,
+Wed Aug 7 09:07:01 2013,losangeles,bash:9,perl:16,ruby:11,python:20,php:30,puppet:8,chef:7,kvm:6,xen:12,hyper-v:28,vmware:92,aws:10,openstack:1,rackspace:2,
+Wed Aug 7 09:07:01 2013,newyork,bash:29,perl:60,ruby:22,python:51,php:45,puppet:18,chef:13,kvm:12,xen:11,hyper-v:21,vmware:100,aws:10,openstack:2,rackspace:3,
+Wed Aug 7 09:07:01 2013,sandiego,bash:9,perl:14,ruby:10,python:20,php:30,puppet:8,chef:7,kvm:6,xen:12,hyper-v:25,vmware:82,aws:9,openstack:1,rackspace:1,
+Wed Aug 7 09:07:01 2013,boston,bash:35,perl:48,ruby:22,python:42,php:50,puppet:36,chef:37,kvm:3,xen:31,hyper-v:15,vmware:100,aws:20,openstack:1,rackspace:1,
+Wed Aug 7 09:07:01 2013,chicago,bash:8,perl:13,ruby:,python:10,php:12,puppet:3,chef:1,kvm:,xen:2,hyper-v:8,vmware:35,aws:2,openstack:,rackspace:1,
+Wed Aug 7 09:07:01 2013,seattle,bash:12,perl:24,ruby:8,python:25,php:19,puppet:17,chef:11,kvm:7,xen:4,hyper-v:26,vmware:81,aws:10,openstack:1,rackspace:2,
+Wed Aug 7 09:07:01 2013,portland,bash:11,perl:28,ruby:13,python:22,php:21,puppet:16,chef:12,kvm:8,xen:4,hyper-v:23,vmware:70,aws:9,openstack:1,rackspace:3,
+Mon Aug 12 09:37:29 2013
+Mon Aug 12 09:37:29 2013,austin,bash:13,perl:14,ruby:2,python:12,php:20,puppet:3,chef:2,kvm:2,xen:3,hyper-v:5,vmware:36,aws:2,openstack:,rackspace:,
+Mon Aug 12 09:37:29 2013,sfbay,bash:25,perl:55,ruby:45,python:58,php:19,puppet:32,chef:31,kvm:10,xen:6,hyper-v:13,vmware:70,aws:19,openstack:4,rackspace:7,
+Mon Aug 12 09:37:29 2013,losangeles,bash:13,perl:21,ruby:14,python:25,php:32,puppet:12,chef:10,kvm:5,xen:9,hyper-v:28,vmware:93,aws:10,openstack:1,rackspace:4,
+Mon Aug 12 09:37:29 2013,newyork,bash:29,perl:56,ruby:19,python:49,php:39,puppet:17,chef:12,kvm:12,xen:9,hyper-v:23,vmware:100,aws:9,openstack:3,rackspace:3,
+Mon Aug 12 09:37:29 2013,sandiego,bash:13,perl:18,ruby:12,python:24,php:32,puppet:12,chef:10,kvm:5,xen:9,hyper-v:25,vmware:83,aws:9,openstack:1,rackspace:3,
+Mon Aug 12 09:37:29 2013,boston,bash:37,perl:49,ruby:22,python:39,php:49,puppet:37,chef:37,kvm:3,xen:34,hyper-v:16,vmware:100,aws:24,openstack:1,rackspace:1,
+Mon Aug 12 09:37:29 2013,chicago,bash:7,perl:15,ruby:2,python:10,php:12,puppet:2,chef:1,kvm:,xen:2,hyper-v:6,vmware:36,aws:2,openstack:,rackspace:1,
+Mon Aug 12 09:37:29 2013,seattle,bash:12,perl:28,ruby:12,python:30,php:17,puppet:17,chef:13,kvm:6,xen:7,hyper-v:28,vmware:78,aws:8,openstack:2,rackspace:3,
+Mon Aug 12 09:37:29 2013,portland,bash:10,perl:29,ruby:16,python:23,php:17,puppet:15,chef:13,kvm:7,xen:6,hyper-v:24,vmware:67,aws:8,openstack:1,rackspace:3
+Tue Nov 26 22:53:38 2013
+Tue Nov 26 22:53:38 2013,austin,bash:2,perl:4,ruby:2,python:6,php:8,puppet:,chef:,kvm:2,xen:1,hyper-v:4,vmware:2,aws:2,openstack:,rackspace:,
+Tue Nov 26 22:53:38 2013,sfbay,bash:5,perl:5,ruby:1,python:0,php:6,puppet:9,chef:6,kvm:4,xen:4,hyper-v:3,vmware:4,aws:3,openstack:7,rackspace:0,
+Tue Nov 26 22:53:38 2013,losangeles,bash:6,perl:6,ruby:0,python:1,php:3,puppet:4,chef:3,kvm:2,xen:3,hyper-v:0,vmware:1,aws:5,openstack:,rackspace:2,
+Tue Nov 26 22:53:38 2013,newyork,bash:9,perl:7,ruby:3,python:5,php:4,puppet:2,chef:8,kvm:5,xen:5,hyper-v:3,vmware:0,aws:8,openstack:2,rackspace:4,
+Tue Nov 26 22:53:38 2013,sandiego,bash:3,perl:9,ruby:5,python:3,php:9,puppet:2,chef:1,kvm:,xen:,hyper-v:4,vmware:4,aws:6,openstack:1,rackspace:2,
+Tue Nov 26 22:53:38 2013,boston,bash:1,perl:3,ruby:1,python:3,php:5,puppet:9,chef:2,kvm:,xen:1,hyper-v:7,vmware:7,aws:4,openstack:1,rackspace:5,
+Tue Nov 26 22:53:38 2013,chicago,bash:0,perl:3,ruby:2,python:8,php:5,puppet:6,chef:2,kvm:2,xen:2,hyper-v:4,vmware:6,aws:1,openstack:1,rackspace:2,
+Tue Nov 26 22:53:38 2013,seattle,bash:2,perl:6,ruby:2,python:7,php:1,puppet:9,chef:4,kvm:3,xen:7,hyper-v:8,vmware:7,aws:4,openstack:2,rackspace:3,
+Tue Nov 26 22:53:38 2013,portland,bash:1,perl:1,ruby:1,python:4,php:5,puppet:4,chef:2,kvm:,xen:1,hyper-v:4,vmware:0,aws:3,openstack:,rackspace:,
+Thu Dec 19 01:00:41 2013
+Thu Dec 19 01:00:41 2013,austin,bash:9,perl:5,ruby:1,python:5,php:4,puppet:5,chef:5,kvm:,xen:1,hyper-v:6,vmware:1,aws:2,openstack:,rackspace:,
+Thu Dec 19 01:00:41 2013,sfbay,bash:1,perl:4,ruby:6,python:7,php:2,puppet:9,chef:2,kvm:4,xen:1,hyper-v:1,vmware:2,aws:0,openstack:4,rackspace:4,
+Thu Dec 19 01:00:41 2013,losangeles,bash:1,perl:6,ruby:6,python:7,php:0,puppet:5,chef:5,kvm:1,xen:2,hyper-v:4,vmware:7,aws:3,openstack:,rackspace:,
+Thu Dec 19 01:00:41 2013,newyork,bash:9,perl:4,ruby:2,python:0,php:4,puppet:0,chef:9,kvm:4,xen:2,hyper-v:4,vmware:5,aws:0,openstack:7,rackspace:3,
+Thu Dec 19 01:00:41 2013,sandiego,bash:2,perl:7,ruby:3,python:3,php:8,puppet:5,chef:6,kvm:,xen:,hyper-v:7,vmware:1,aws:2,openstack:,rackspace:,
+Thu Dec 19 01:00:41 2013,boston,bash:3,perl:8,ruby:8,python:0,php:4,puppet:7,chef:6,kvm:3,xen:8,hyper-v:1,vmware:5,aws:7,openstack:6,rackspace:7,
+Thu Dec 19 01:00:41 2013,chicago,bash:8,perl:7,ruby:2,python:6,php:8,puppet:5,chef:2,kvm:1,xen:1,hyper-v:4,vmware:6,aws:,openstack:,rackspace:1,
+Thu Dec 19 01:00:41 2013,seattle,bash:8,perl:8,ruby:4,python:5,php:9,puppet:5,chef:9,kvm:3,xen:5,hyper-v:3,vmware:3,aws:6,openstack:,rackspace:1,
+Thu Dec 19 01:00:41 2013,portland,bash:3,perl:6,ruby:2,python:4,php:6,puppet:6,chef:2,kvm:1,xen:3,hyper-v:2,vmware:7,aws:4,openstack:,rackspace:2,
+Tue Jan 14 15:01:11 2014
+Tue Jan 14 15:01:11 2014,austin,bash:6,perl:4,ruby:2,python:5,php:7,puppet:6,chef:6,kvm:,xen:1,hyper-v:3,vmware:0,aws:,openstack:1,rackspace:1,
+Tue Jan 14 15:01:11 2014,sfbay,bash:5,perl:6,ruby:4,python:0,php:8,puppet:0,chef:6,kvm:5,xen:8,hyper-v:2,vmware:2,aws:1,openstack:5,rackspace:7,
+Tue Jan 14 15:01:11 2014,losangeles,bash:7,perl:5,ruby:6,python:4,php:4,puppet:2,chef:0,kvm:1,xen:2,hyper-v:3,vmware:8,aws:6,openstack:2,rackspace:4,
+Tue Jan 14 15:01:11 2014,newyork,bash:7,perl:0,ruby:2,python:2,php:7,puppet:7,chef:5,kvm:8,xen:5,hyper-v:6,vmware:2,aws:6,openstack:1,rackspace:,
+Tue Jan 14 15:01:11 2014,sandiego,bash:4,perl:2,ruby:2,python:1,php:0,puppet:3,chef:2,kvm:,xen:,hyper-v:1,vmware:6,aws:2,openstack:,rackspace:,
+Tue Jan 14 15:01:11 2014,boston,bash:9,perl:3,ruby:7,python:7,php:6,puppet:9,chef:2,kvm:1,xen:1,hyper-v:1,vmware:8,aws:6,openstack:1,rackspace:9,
+Tue Jan 14 15:01:11 2014,chicago,bash:4,perl:7,ruby:,python:5,php:5,puppet:4,chef:2,kvm:1,xen:,hyper-v:5,vmware:1,aws:,openstack:,rackspace:,
+Tue Jan 14 15:01:11 2014,seattle,bash:9,perl:9,ruby:2,python:4,php:8,puppet:1,chef:2,kvm:2,xen:8,hyper-v:2,vmware:5,aws:2,openstack:,rackspace:4,
+Tue Jan 14 15:01:11 2014,portland,bash:1,perl:6,ruby:8,python:7,php:5,puppet:9,chef:5,kvm:1,xen:,hyper-v:2,vmware:9,aws:4,openstack:1,rackspace:2,
+Fri Apr 18 11:14:24 2014
+Fri Apr 18 11:14:24 2014,austin,bash:2,perl:4,ruby:4,python:6,php:4,puppet:5,chef:4,kvm:2,xen:2,hyper-v:7,vmware:20,aws:3,openstack:1,rackspace:1,
+Fri Apr 18 11:14:27 2014,sfbay,bash:39,perl:71,ruby:43,python:83,php:40,puppet:44,chef:25,kvm:14,xen:7,hyper-v:15,vmware:90,aws:29,openstack:8,rackspace:7,
+Fri Apr 18 11:14:29 2014,losangeles,bash:24,perl:18,ruby:5,python:16,php:21,puppet:11,chef:8,kvm:1,xen:2,hyper-v:18,vmware:79,aws:20,openstack:1,rackspace:5,
+Fri Apr 18 11:14:31 2014,newyork,bash:37,perl:33,ruby:24,python:51,php:26,puppet:28,chef:31,kvm:9,xen:7,hyper-v:17,vmware:100,aws:30,openstack:4,rackspace:2,
+Fri Apr 18 11:14:33 2014,sandiego,bash:28,perl:21,ruby:7,python:22,php:27,puppet:12,chef:11,kvm:1,xen:3,hyper-v:13,vmware:86,aws:19,openstack:2,rackspace:6,
+Fri Apr 18 11:14:36 2014,boston,bash:32,perl:39,ruby:24,python:52,php:30,puppet:40,chef:38,kvm:13,xen:10,hyper-v:14,vmware:77,aws:34,openstack:15,rackspace:13,
+Fri Apr 18 11:14:38 2014,chicago,bash:7,perl:11,ruby:6,python:11,php:15,puppet:3,chef:,kvm:6,xen:3,hyper-v:3,vmware:18,aws:,openstack:,rackspace:,
+Fri Apr 18 11:14:40 2014,seattle,bash:19,perl:31,ruby:10,python:28,php:19,puppet:23,chef:21,kvm:9,xen:5,hyper-v:19,vmware:34,aws:16,openstack:8,rackspace:,
+Fri Apr 18 11:14:42 2014,portland,bash:27,perl:42,ruby:19,python:42,php:25,puppet:30,chef:22,kvm:16,xen:8,hyper-v:32,vmware:66,aws:21,openstack:9,rackspace:4,

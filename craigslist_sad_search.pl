@@ -7,13 +7,15 @@ my @cities = qw{austin sfbay losangeles newyork sandiego boston chicago seattle 
 my @searches = qw{bash perl ruby python php puppet chef kvm xen hyper-v vmware aws openstack rackspace};
 
 for my $city (@cities) {
-	print "$city  \n";
+	my $current_time = localtime();
+	print "$current_time,";
+	print "$city,";
 	for my $keyword (@searches) {
 		my $url = "http://$city.craigslist.org/search/sad?query=$keyword";
 		my $html = qx{ curl --silent -L '$url' };
 		my @matches = $html =~ /1 - (\d+)/;
 		my $count = $matches[0];
-		print "$keyword: $count ";
+		print "$keyword:$count,";
 	}
 	print "\n";
 }
