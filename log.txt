@@ -93,3 +93,41 @@ seattle
 bash: 2 perl: 6 ruby: 2 python: 7 php: 1 puppet: 9 chef: 4 kvm: 3 xen: 7 hyper-v: 8 vmware: 7 aws: 4 openstack: 2 rackspace: 3 
 portland  
 bash: 1 perl: 1 ruby: 1 python: 4 php: 5 puppet: 4 chef: 2 kvm:  xen: 1 hyper-v: 4 vmware: 0 aws: 3 openstack:  rackspace:   
+Thu Dec 19 01:00:41 PST 2013
+austin  
+bash: 9 perl: 5 ruby: 1 python: 5 php: 4 puppet: 5 chef: 5 kvm:  xen: 1 hyper-v: 6 vmware: 1 aws: 2 openstack:  rackspace:  
+sfbay  
+bash: 1 perl: 4 ruby: 6 python: 7 php: 2 puppet: 9 chef: 2 kvm: 4 xen: 1 hyper-v: 1 vmware: 2 aws: 0 openstack: 4 rackspace: 4 
+losangeles  
+bash: 1 perl: 6 ruby: 6 python: 7 php: 0 puppet: 5 chef: 5 kvm: 1 xen: 2 hyper-v: 4 vmware: 7 aws: 3 openstack:  rackspace:  
+newyork  
+bash: 9 perl: 4 ruby: 2 python: 0 php: 4 puppet: 0 chef: 9 kvm: 4 xen: 2 hyper-v: 4 vmware: 5 aws: 0 openstack: 7 rackspace: 3 
+sandiego  
+bash: 2 perl: 7 ruby: 3 python: 3 php: 8 puppet: 5 chef: 6 kvm:  xen:  hyper-v: 7 vmware: 1 aws: 2 openstack:  rackspace:  
+boston  
+bash: 3 perl: 8 ruby: 8 python: 0 php: 4 puppet: 7 chef: 6 kvm: 3 xen: 8 hyper-v: 1 vmware: 5 aws: 7 openstack: 6 rackspace: 7 
+chicago  
+bash: 8 perl: 7 ruby: 2 python: 6 php: 8 puppet: 5 chef: 2 kvm: 1 xen: 1 hyper-v: 4 vmware: 6 aws:  openstack:  rackspace: 1 
+seattle  
+bash: 8 perl: 8 ruby: 4 python: 5 php: 9 puppet: 5 chef: 9 kvm: 3 xen: 5 hyper-v: 3 vmware: 3 aws: 6 openstack:  rackspace: 1 
+portland  
+bash: 3 perl: 6 ruby: 2 python: 4 php: 6 puppet: 6 chef: 2 kvm: 1 xen: 3 hyper-v: 2 vmware: 7 aws: 4 openstack:  rackspace: 2 
+Tue Jan 14 15:01:11 PST 2014
+austin  
+bash: 6 perl: 4 ruby: 2 python: 5 php: 7 puppet: 6 chef: 6 kvm:  xen: 1 hyper-v: 3 vmware: 0 aws:  openstack: 1 rackspace: 1 
+sfbay  
+bash: 5 perl: 6 ruby: 4 python: 0 php: 8 puppet: 0 chef: 6 kvm: 5 xen: 8 hyper-v: 2 vmware: 2 aws: 1 openstack: 5 rackspace: 7 
+losangeles  
+bash: 7 perl: 5 ruby: 6 python: 4 php: 4 puppet: 2 chef: 0 kvm: 1 xen: 2 hyper-v: 3 vmware: 8 aws: 6 openstack: 2 rackspace: 4 
+newyork  
+bash: 7 perl: 0 ruby: 2 python: 2 php: 7 puppet: 7 chef: 5 kvm: 8 xen: 5 hyper-v: 6 vmware: 2 aws: 6 openstack: 1 rackspace:  
+sandiego  
+bash: 4 perl: 2 ruby: 2 python: 1 php: 0 puppet: 3 chef: 2 kvm:  xen:  hyper-v: 1 vmware: 6 aws: 2 openstack:  rackspace:  
+boston  
+bash: 9 perl: 3 ruby: 7 python: 7 php: 6 puppet: 9 chef: 2 kvm: 1 xen: 1 hyper-v: 1 vmware: 8 aws: 6 openstack: 1 rackspace: 9 
+chicago  
+bash: 4 perl: 7 ruby:  python: 5 php: 5 puppet: 4 chef: 2 kvm: 1 xen:  hyper-v: 5 vmware: 1 aws:  openstack:  rackspace:  
+seattle  
+bash: 9 perl: 9 ruby: 2 python: 4 php: 8 puppet: 1 chef: 2 kvm: 2 xen: 8 hyper-v: 2 vmware: 5 aws: 2 openstack:  rackspace: 4 
+portland  
+bash: 1 perl: 6 ruby: 8 python: 7 php: 5 puppet: 9 chef: 5 kvm: 1 xen:  hyper-v: 2 vmware: 9 aws: 4 openstack: 1 rackspace: 2 
